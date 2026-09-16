@@ -17,7 +17,7 @@ The dashboard provides a high-level view of:
 
 ## Dashboard Preview
 
-![South America Sales Dashboard](screenshots/dashboard.png)
+![South America Sales Dashboard](dashboard.png)
 
 ## Key Analysis
 
